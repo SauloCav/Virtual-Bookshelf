@@ -8,6 +8,13 @@
 2. **Book Listing**: Search results are displayed in a list, showcasing the book's title, author, and URL.
 3. **Star Rating**: Each book can be rated using a 1 to 5 star system.
 
+## Prints
+<p align="center">
+  <img src="img/01.jpg" width="240" />
+  <img src="img/02.jpg" width="240" /> 
+  <img src="img/03.jpg" width="240" />
+</p>
+
 ## Installation
 
 To run **Virtual Bookshelf** locally:
